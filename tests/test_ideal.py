@@ -1,5 +1,5 @@
 """
-
+This module tests and validates output from the ideal.py module. 
 """
 
 from rocket_relations.ideal import find_characteristic_velocity
