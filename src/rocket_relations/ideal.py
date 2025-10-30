@@ -1,3 +1,9 @@
+"""
+This module defines functions to calculate the characteristic velocity and thrust coefficient of a rocket using user-defined parameters.
+It validates inputs, calculates, and then returns the desired value. 
+"""
+
+
 import numpy as np
 
 def find_characteristic_velocity(gamma, R, T0):
